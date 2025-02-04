@@ -265,3 +265,56 @@ background-color: white;
 #date{
     font-weight: bolder;
 }
+#top{
+    border: none;
+    color: white;
+  margin-left: 800px;
+    height: 100px;
+    background-color: #232f3e;
+    font-weight: bold;
+    font-size: x-large;
+}
+#back{
+    background-color: #232f3e;
+    }
+    #main{
+        display: flex;
+        height: 400px;
+        color: white;
+        background-color: #333;
+       font-family: Arial, Helvetica, sans-serif;
+       font-weight: bold;
+       padding-top: 40px;
+       font-size: larger;
+    }
+    #about{
+       
+        margin-left: 120px;
+    }
+    #Connect,#money,#help{
+     margin-left: 220px;
+    }
+    #am{
+        display: flex;
+        background-color: #333;
+        height: 60px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border-top: 1px solid white;
+    }
+    #photo{
+        margin-left: 700px;
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKY8W-m3gCpB6ppQcxGq-GuWJd_71Hu2ckig&s");
+        background-size: cover; 
+        margin-right: 20px;
+        width: 200px; 
+        height: 60px;
+    }
+    #bx,#naksha{
+        margin-left: 80px;
+        margin-bottom: 20px;
+        color: #f0f0f0;
+        border: 1px solid white;
+        background-color: #333;
+        height: 60px;
+    }
